@@ -1,4 +1,3 @@
-
 import re
 import ipaddress
 from urllib.parse import urlparse
@@ -122,6 +121,17 @@ st.markdown("""
     [data-testid="stDataFrame"] {
         border: 1px solid #26364c;
         border-radius: 10px;
+    }
+        /* URL input text visibility fix */
+    .stTextArea textarea {
+        background-color: #ffffff !important;
+        color: #000000 !important;
+        -webkit-text-fill-color: #000000 !important;
+        caret-color: #000000 !important;
+    }
+
+    .stTextArea textarea::placeholder {
+        color: #777777 !important;
     }
 </style>
 """, unsafe_allow_html=True)
