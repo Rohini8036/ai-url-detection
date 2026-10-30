@@ -1,0 +1,17 @@
+Scan Time,URL,Prediction,Confidence (%),Safe Probability (%)
+2026-10-29 19:30:23,https://www.wikipedia.org,Safe,100.0,100.0
+2026-10-29 19:36:41,https://www.scamadviser.com/#google_vignette,Safe,79.5,79.5
+2026-10-30 14:49:21,http://www.whatsapp.com,Safe,57.5,57.5
+2026-10-30 14:49:21,http://www.google.com,Safe,57.5,57.5
+2026-10-30 14:52:10,http://login-verify-account.invalid,Spam,53.5,0.0
+2026-10-30 14:52:10,http://secure-bank-update.invalid/login,Malicious,88.5,0.0
+2026-10-30 14:52:10,http://free-prize-winner.invalid/claim,Spam,74.5,0.0
+2026-10-30 14:52:10,http://account-suspended.invalid/verify,Malicious,84.5,0.0
+2026-10-30 14:52:10,http://192.0.2.10/secure-login,Malicious,79.5,6.5
+2026-10-30 14:53:34,http://login-verify-account.invalid,Spam,53.5,0.0
+2026-10-30 14:53:34,http://secure-bank-update.invalid/login,Malicious,88.5,0.0
+2026-10-30 14:53:34,http://free-prize-winner.invalid/claim,Spam,74.5,0.0
+2026-10-30 14:53:35,http://account-suspended.invalid/verify,Malicious,84.5,0.0
+2026-10-30 14:53:35,http://192.0.2.10/secure-login,Malicious,79.5,6.5
+2026-10-30 14:53:35,http://www.google.com,Safe,57.5,57.5
+2026-10-30 14:53:35,http://www.whatsapp.com,Safe,57.5,57.5
